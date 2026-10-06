@@ -1,0 +1,26 @@
+{
+  "corpus_freeze_date": "2026-07-12",
+  "archive_verification_date": "2026-08-02",
+  "public_package_build_date": "2026-10-06",
+  "documents": 40,
+  "public_documents": 20,
+  "private_documents": 20,
+  "orthographic_word_forms": 101210,
+  "analytic_tokens": 79295,
+  "content_tokens": 54530,
+  "python_reproduction_environment": "3.13.5",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "statsmodels": "0.14.6",
+  "ocr": {
+    "engine": "Tesseract",
+    "version": "5.5.0",
+    "language": "vie",
+    "oem": 1,
+    "psm": 3,
+    "overall_sample_CER_percent": 1.09,
+    "reference_characters": 824
+  },
+  "theme_statistics": "Two-sided asymptotic Mann-Whitney U with tie correction; rank-biserial effect size; Benjamini-Hochberg FDR; 10,000 stratified bootstrap resamples for 95% CIs; seed 20260802",
+  "note": "Complete copied institutional source texts are not redistributed in this public package."
+}

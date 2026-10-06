@@ -1,0 +1,11 @@
+﻿Check,Result,Criterion,Status
+Final documents,40,40,Pass
+Public/private balance,20/20,20/20,Pass
+Cleaned orthographic word forms,101210,"80,000–150,000",Pass
+Public orthographic word forms,57696,Reported transparently,Pass
+Private orthographic word forms,43514,Reported transparently,Pass
+Largest single-document share,7.661298290682739,<10%,Pass
+Minimum document relevance count,15,>0,Pass
+OCR documents,9,Reported and quality-audited,Pass
+Exact duplicate paragraph rate,0.0,0 after deduplication,Pass
+FDR-significant thematic comparisons,3,"Descriptive, not predetermined",Information

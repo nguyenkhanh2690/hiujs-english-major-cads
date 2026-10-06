@@ -1,0 +1,4 @@
+﻿Corpus,Documents,Orthographic word forms,Analytic tokens,Content tokens,Analytic types,Content types,Mean orthographic words/document,Median orthographic words/document,Minimum orthographic words/document,Maximum orthographic words/document,Largest document share %
+PUC,20,57696,45800,31468,2336,2051,2884.8,2281.5,617,7754,13.439406544647808
+PrUC,20,43514,33495,23062,1932,1685,2175.7,1250.5,513,6495,14.926230638415221
+Combined,40,101210,79295,54530,2899,2559,2530.25,1870.5,513,7754,7.661298290682739

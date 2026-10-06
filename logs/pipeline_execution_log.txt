@@ -1,0 +1,12 @@
+HIUJS public package verification log
+Build date: 2026-10-06
+Python: 3.13.5
+NumPy: 2.3.5
+SciPy: 1.17.0
+statsmodels: 0.14.6
+Input university-level matrix: derived_outputs/theme_by_university.csv
+Documents: 40 (20 public, 20 private)
+Bootstrap resamples: 10000
+Random seed: 20260802
+Mann-Whitney method: asymptotic, two-sided, tie-corrected by SciPy
+Statistics script status: SUCCESS

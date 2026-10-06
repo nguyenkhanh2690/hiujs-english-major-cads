@@ -1,0 +1,11 @@
+﻿School ID,OCR engine,Language,OEM,PSM,Reference characters checked,Character errors,CER (%),Note
+PR02_HSU,Tesseract 5.5.0,vie,1,3,157,0,0.0,
+PR04_NTTU,Tesseract 5.5.0,vie,1,3,100,3,3.0,
+PR13_GDU,Tesseract 5.5.0,vie,1,3,65,0,0.0,
+PU08_SGU,Tesseract 5.5.0,vie,1,3,67,0,0.0,
+PU15_QNU,Tesseract 5.5.0,vie,1,3,37,0,0.0,
+PU19_UFM,Tesseract 5.5.0,vie,1,3,89,0,0.0,
+PU22_HVTC,Tesseract 5.5.0,vie,1,3,93,1,1.08,
+PU23_IUH,Tesseract 5.5.0,vie,1,3,142,5,3.52,
+PU24_HAUI,Tesseract 5.5.0,vie,1,3,74,0,0.0,
+Overall,Tesseract 5.5.0,vie,1,3,824,9,1.09,One manually verified passage from each of the nine OCR-derived documents; CER = character errors / reference characters × 100.

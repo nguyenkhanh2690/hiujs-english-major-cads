@@ -1,0 +1,12 @@
+OCR quality check
+
+Engine: Tesseract 5.5.0
+Language: vie
+OCR Engine Mode: OEM 1 (LSTM only)
+Page Segmentation Mode: PSM 3 (automatic page segmentation)
+Sampling: one manually verified passage from each of the nine OCR-derived documents.
+Total reference characters: 824
+Total character errors: 9 (7 substitutions, 0 deletions, 2 insertions)
+Overall CER: 1.09%
+Document-level sample CER range: 0.00% to 3.52%
+Observed residual errors were predominantly Vietnamese-diacritic and spacing artefacts.
