@@ -6,10 +6,10 @@ This repository accompanies the study **“Promoting the English Major: Employab
 
 - `code/` — executable Python analysis scripts.
 - `lexicons/` — frozen multiword lexicon, stopwords, and thematic dictionaries.
-- `metadata/` — institution-level source metadata, page/section selections, extraction records, source formats, URLs/archived-source identifiers, corpus statistics, and checksums/provenance fields.
+- `metadata/` — institution-level source metadata, including the dominant source genre, page/section selections, source formats, URLs/archived-source identifiers, word/token counts, corpus statistics, and checksums/provenance fields.
 - `derived_outputs/` — frequency, keyness, collocation, concordance, university-level thematic, and comparison outputs.
 - `validation/` — revised statistical outputs, full leave-one-institution-out runs, document-length sensitivity analysis, OCR quality-control source data, and Figure 1 data.
-- `supplementary/` — Supplementary Tables S1–S3 cited in the manuscript.
+- `supplementary/` — reviewer-support files, including the thematic dictionaries, sensitivity analyses, OCR quality control, and the former Appendix A institution table moved out of the manuscript to comply with the Journal's no-appendix requirement.
 - `logs/` — execution log.
 - `requirements.txt` — Python package requirements.
 
@@ -37,10 +37,11 @@ The script reads `derived_outputs/theme_by_university.csv` and writes the revise
 
 ## Source-text access
 
-Complete copied institutional texts are not redistributed because the underlying documents remain the property of their respective universities. `metadata/institution_metadata.csv` provides official source URLs, selected pages/sections, archived-source identifiers/paths, source formats, and hashes for traceability.
+Complete copied institutional texts are not redistributed because the underlying documents remain the property of their respective universities. `metadata/institution_metadata.csv` provides all 40 institutions with ownership, dominant source genre, official source URLs, selected pages/sections, archived-source identifiers/paths, source formats, orthographic-word and analytical-token counts, and hashes for traceability. The concise five-column institution table that previously appeared as Appendix A is preserved verbatim as `supplementary/Former_Appendix_A_Sampled_Institutions_and_Corpus_Metadata.csv`.
 
 ## Supplementary tables
 
 - `supplementary/Supplementary_Table_S1_Thematic_Dictionaries.csv`
 - `supplementary/Supplementary_Table_S2_Sensitivity_Analyses.csv`
 - `supplementary/Supplementary_Table_S3_OCR_Quality_Control.csv`
+- `supplementary/Former_Appendix_A_Sampled_Institutions_and_Corpus_Metadata.csv` — former manuscript Appendix A, relocated to the repository under the Journal's no-appendix requirement.
